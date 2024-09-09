@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/IgorMoraesTech/IgorMoraesTech/a369ec97648c349e203b5685ae629668bdb1d07a/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
