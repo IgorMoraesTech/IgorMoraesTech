@@ -28,13 +28,13 @@
   <a href="https://www.linkedin.com/in/igormoraestech/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="@IgorMoraesTech" target="_blank">
+  <a href="https://discord.com/users/IgorMoraesTech" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://instagram.com/igormoraestech" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="igormoraestech@gmail.com" target="_blank">
+  <a href="mailto:igormoraestech@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/@IgorMoraesTech" target="_blank">
@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IgorMoraesTech/IgorMoraesTech/32e88359159bc6f42dfa346707678cf4683fc03c/output/snake.svg" alt="Snake animation" />
 
 ###
