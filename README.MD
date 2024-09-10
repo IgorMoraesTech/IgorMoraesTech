@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormoraestech&layout=compact" alt="Top Languages" height="200"/>
-  <img src="https://i.imgur.com/BGkTLbt.gif" alt="Imagem Animada" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormoraestech&layout=compact" alt="Top Languages" width="400"/>
+  <img src="https://i.imgur.com/BGkTLbt.gif" alt="Imagem Animada"/>
 </div>
 
 ###
