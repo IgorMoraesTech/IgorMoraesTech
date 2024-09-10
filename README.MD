@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormoraestech&layout=compact" alt="Top Languages" />
-  <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml3dXZzazc4aTcwaGg4ZjNwb2g4cHU1bmcyeXNmMzF1dzVkZ3p0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+  ![Imagem Animada](https://i.imgur.com/BGkTLbt.gif)
 </p>
 
 ###
