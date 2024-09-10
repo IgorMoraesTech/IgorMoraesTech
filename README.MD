@@ -40,7 +40,9 @@
 </div>
 
 ###
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/IgorMoraesTech/IgorMoraesTech/efb7864c0042b7e22a5d860eac3e876705464ba2/output/snake.svg" alt="Snake animation" />
 </div>
+
 ###
