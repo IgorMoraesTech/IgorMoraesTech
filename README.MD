@@ -2,10 +2,10 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormoraestech&layout=compact" alt="Top Languages" />
   ![Imagem Animada](https://i.imgur.com/BGkTLbt.gif)
-</p>
+</div>
 
 ###
 
