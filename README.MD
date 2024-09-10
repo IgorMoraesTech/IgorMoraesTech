@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igormoraestech&layout=compact)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormoraestech&layout=compact" alt="Top Languages" />
+</p>
 
 ###
 
