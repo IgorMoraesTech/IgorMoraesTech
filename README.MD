@@ -1,6 +1,6 @@
 # Olá, eu sou Igor Moraes 👋
 
-Sou graduando em **Sistemas de Informação** e estou aprofundando meus conhecimentos em tecnologia, computação e desenvolvimento de software.
+Sou graduando em **Sistemas de Informação** e estou aprofundando meus conhecimentos em tecnologia.
 
 Ainda estou explorando diferentes áreas e construindo minha base de conhecimento, buscando entender melhor os fundamentos, ferramentas e possibilidades dentro da tecnologia.
 
