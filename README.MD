@@ -1,30 +1,22 @@
-<h2 align="left">
-  👋 Olá! Sou Igor Moraes, um estudante de Sistemas de Informação apaixonado por programação e tecnologia. Atualmente, estou focado em aprender e aprimorar minhas habilidades em Python e outras linguagens de programação.<br><br>
-  🌱 Atualmente aprendendo:<br>
-  - Python<br>
-  - JavaScript<br>
-  - Desenvolvimento Web (HTML, CSS)<br><br>
-  🤝 Sempre aberto a colaborações e feedbacks. Vamos construir algo incrível juntos!
-</h2>
+# Olá, eu sou Igor Moraes 👋
+
+Sou graduando em **Sistemas de Informação** e estou aprofundando meus conhecimentos em tecnologia, computação e desenvolvimento de software.
+
+Ainda estou explorando diferentes áreas e construindo minha base de conhecimento, buscando entender melhor os fundamentos, ferramentas e possibilidades dentro da tecnologia.
+
+## 📌 Sobre este GitHub
+
+Este espaço reúne projetos, estudos, experimentos e atividades que fazem parte do meu processo de aprendizado e evolução na área de tecnologia.
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormoraestech&layout=compact" alt="Top Languages" width="400" />
-  <img src="https://i.imgur.com/BGkTLbt.gif" alt="Imagem Animada" height="185" />
+  <img src="https://i.imgur.com/BGkTLbt.gif" alt="Let's Code!" height="185" />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-</div>
+
 
 ###
 
